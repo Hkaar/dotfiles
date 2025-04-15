@@ -4,10 +4,9 @@ Contains the configuration for my development environment
 
 ## Package configurations
 
-- ZSH
-- BASH
-- VSCode
-- NeoVim
+- zsh
+- bash
+- neovim
 
 ## Requirements
 
