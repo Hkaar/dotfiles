@@ -1,0 +1,12 @@
+[include]
+	path = ~/.gitconfig.local
+
+[core]
+	editor = nvim
+	pager = less
+
+[color]
+	ui = auto
+
+[init]
+	defaultBranch = main
