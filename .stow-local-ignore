@@ -1,0 +1,11 @@
+# Repository
+^/README.*
+^/LICENSE.*
+
+# git
+.git
+.gitattributes
+.gitconfig
+
+# Special folders
+desktops
