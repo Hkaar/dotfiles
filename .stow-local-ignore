@@ -5,7 +5,6 @@
 # git
 .git
 .gitattributes
-.gitconfig
 
 # Special folders
 desktops
