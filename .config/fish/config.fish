@@ -10,6 +10,9 @@ set -x PATH $PATH ~/.local/bin/zig
 set -x PATH $PATH ~/.local/bin/flutter/bin
 
 set -Ux JAVA_HOME /usr/lib/jvm/java-21-openjdk
+set -Ux CHROME_EXECUTABLE brave-browser
+
+alias --save fastfetch="fastfetch -l ~/logo.txt --logo-padding-top 2"
 
 alias --save gs="git status"
 alias --save gc="git commit"
