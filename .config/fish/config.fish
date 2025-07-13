@@ -8,6 +8,8 @@ end
 set -x PATH $PATH ~/.local/bin
 set -x PATH $PATH ~/.local/bin/zig
 set -x PATH $PATH ~/.local/bin/flutter/bin
+set -x PATH $PATH ~/.local/bin/android-studio/bin
+set -x PATH $PATH ~/.local/bin/dbeaver
 
 set -Ux JAVA_HOME /usr/lib/jvm/java-21-openjdk
 set -Ux CHROME_EXECUTABLE brave-browser
