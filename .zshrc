@@ -16,6 +16,8 @@ export ZSH="$HOME/.oh-my-zsh"
 # Custom configs
 export PATH="$HOME/.local/bin:$PATH"
 export PATH="$HOME/.local/bin/zig:$PATH"
+export PATH="$HOME/.local/bin/android-studio/bin:$PATH"
+export PATH="$HOME/.local/bin/dbeaver:$PATH"
 
 export JAVA_HOME=/usr/lib/jvm/java-21-openjdk
 export CHROME_EXECUTABLE=brave-browser
