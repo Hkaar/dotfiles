@@ -11,6 +11,11 @@ if ! [[ "$PATH" =~ "$HOME/.local/bin:$HOME/bin:" ]]; then
 fi
 export PATH
 
+export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/.local/bin/zig:$PATH"
+export PATH="$HOME/.local/bin/android-studio/bin:$PATH"
+export PATH="$HOME/.local/bin/dbeaver:$PATH"
+
 export CHROME_EXECUTABLE=brave-browser
 export JAVA_HOME=/usr/lib/jvm/java-21-openjdk
 
