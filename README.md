@@ -6,7 +6,9 @@ Contains the configuration for my development environment
 
 - zsh
 - bash
+- fish
 - neovim
+- kitty
 
 ## Requirements
 
