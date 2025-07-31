@@ -1,14 +1,16 @@
 # My Dotfiles
 
-Contains the configuration for my development environment
+Contains the configuration for programs in my user environment,
+ranging from shells to editors and more!
 
-## Package configurations
+`Here's a some cat art i got from internet`
 
-- zsh
-- bash
-- fish
-- neovim
-- kitty
+```ascii
+            へ  ♡       
+        ૮ >  <) 
+        / ⁻  ៸|    
+     乀(ˍ, ل ل   
+```
 
 ## Requirements
 
@@ -28,3 +30,25 @@ Use GNU stow to link the files & directories
 ```bash
 stow .
 ```
+
+## Package configurations
+
+Here is a list of programs that i have configured in the repo
+
+### Shell environments
+
+- zsh
+- bash
+- fish
+
+### Editors
+
+- neovim
+
+### Terminal emulators
+
+- kitty
+
+### Other stuff
+
+- cava
